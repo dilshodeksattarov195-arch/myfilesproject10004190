@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvncrypt",
+        "uuid": 28408200,
+        "checksum": "2fduij"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
